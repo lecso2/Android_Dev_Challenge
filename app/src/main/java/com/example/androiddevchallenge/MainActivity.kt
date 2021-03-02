@@ -30,7 +30,6 @@ import com.example.androiddevchallenge.screens.DetailScreen
 import com.example.androiddevchallenge.screens.ListScreen
 import com.example.androiddevchallenge.ui.theme.MyTheme
 
-
 class MainActivity : AppCompatActivity() {
     @ExperimentalFoundationApi
     override fun onCreate(savedInstanceState: Bundle?) {

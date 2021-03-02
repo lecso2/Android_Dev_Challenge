@@ -52,7 +52,6 @@ val typography = Typography(
         textAlign = TextAlign.Center
     )
 
-
     /* Other default text styles to override
 button = TextStyle(
     fontFamily = FontFamily.Default,
